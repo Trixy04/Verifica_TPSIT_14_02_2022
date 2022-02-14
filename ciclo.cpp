@@ -11,6 +11,7 @@ for(int i = 0; i < var_for; i++){
 	cout<<"Giro numero: "<<conta<<";";
 
 }
-//mod
+//mod 
+//mod 2
 return 0;
 }
