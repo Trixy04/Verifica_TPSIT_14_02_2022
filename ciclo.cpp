@@ -11,6 +11,7 @@ for(int i = 0; i < var_for; i++){
 	cout<<"Giro numero: "<<conta<<";";
 
 }
+//modifica su 02
 //mdofifica su branch master 01
 return 0;
 }
